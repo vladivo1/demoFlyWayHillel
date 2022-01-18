@@ -1,0 +1,1 @@
+INSERT into country VALUES (1,'Ukraine', 'Kyiv')

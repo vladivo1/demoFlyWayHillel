@@ -1,0 +1,1 @@
+ALTER TABLE Country ADD capital VARCHAR(40) NOT NULL;
