@@ -1,0 +1,8 @@
+# Spring Boot configuration
+spring:
+  # Database
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/flyway_demo_db
+    username: postgres
+    password: postgres
